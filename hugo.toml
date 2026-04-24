@@ -1,4 +1,9 @@
-baseURL = "https://Jorshuare.github.io/josh-dev/" 
+
+baseURL = "https://jorshuare.github.io/josh-dev/"
+
 languageCode = "en-us"
+
 title = "Josh Dev"
+
 theme = "PaperMod"
+
