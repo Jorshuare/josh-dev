@@ -16,6 +16,7 @@ static site generators, version control, and web deployment.
 - **Markdown** - Content writing
 
 ## Project Structure
+```
 josh-dev/
 ├── content/
 │   └── posts/          # Blog posts in Markdown
@@ -24,6 +25,7 @@ josh-dev/
 ├── static/             # Static assets
 ├── layouts/            # Custom layouts
 └── hugo.toml           # Site configuration
+```
 
 ## Running Locally
 
@@ -60,7 +62,7 @@ hugo --minify
 
 ## Author
 
-**Josh** - [GitHub](https://github.com/yourusername)
+**Josh** - [GitHub](https://github.com/Jorshuare)
 
 ## License
 
