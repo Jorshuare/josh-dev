@@ -33,7 +33,7 @@ Make sure you have Hugo installed, then:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/josh-dev.git
+git clone https://github.com/Jorshuare/josh-dev.git
 
 # Navigate into the project
 cd josh-dev
