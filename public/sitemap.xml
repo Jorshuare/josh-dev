@@ -2,23 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/josh-dev/posts/hello-world/</loc>
-    <lastmod>2026-04-24T10:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/josh-dev/tags/assignment/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/posts/assignment-2-report/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/tags/deployment/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/tags/git/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/posts/git-workflow/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/tags/hugo/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/josh-dev/</loc>
-    <lastmod>2026-04-24T10:00:00+08:00</lastmod>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/josh-dev/posts/</loc>
-    <lastmod>2026-04-24T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/josh-dev/posts/assignment/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/josh-dev/posts/assignment1-report/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/josh-dev/categories/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/josh-dev/tags/</loc>
+    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/posts/assignment-1-report/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/posts/hello-world/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/posts/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/josh-dev/categories/</loc>
   </url>
 </urlset>

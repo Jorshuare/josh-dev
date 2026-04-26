@@ -6,22 +6,27 @@
     <description>Recent content on Josh Dev</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/josh-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/josh-dev/posts/hello-world/</link>
-      <pubDate>Fri, 24 Apr 2026 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/josh-dev/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-josh-dev&#34;&gt;Welcome to Josh Dev&lt;/h2&gt;
-&lt;p&gt;Hi! I&amp;rsquo;m Josh and this is my personal blog. I&amp;rsquo;ll be writing about software, tech and my learning journey.&lt;/p&gt;
-&lt;p&gt;This site was built using Hugo, a fast static site generator.&lt;/p&gt;</description>
+      <title>Assignment 2: Static Blog Setup &amp; Deployment Report</title>
+      <link>http://localhost:1313/josh-dev/posts/assignment-2-report/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/josh-dev/posts/assignment-2-report/</guid>
+      <description>A full walkthrough of how I built and deployed this static blog for Assignment 2.</description>
+    </item>
+    <item>
+      <title>Git Made Sense to Me When I Stopped Thinking of It as Saving</title>
+      <link>http://localhost:1313/josh-dev/posts/git-workflow/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/josh-dev/posts/git-workflow/</guid>
+      <description>&lt;p&gt;This is a part of the assignment 2, which is to commit at least 5 times. This will be carried out by showing a documentation of my workflow with git and github&lt;/p&gt;</description>
     </item>
     <item>
       <title>Assignment 1 Report</title>
-      <link>http://localhost:1313/josh-dev/posts/assignment/</link>
+      <link>http://localhost:1313/josh-dev/posts/assignment-1-report/</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/josh-dev/posts/assignment/</guid>
+      <guid>http://localhost:1313/josh-dev/posts/assignment-1-report/</guid>
       <description>&lt;h1 id=&#34;remote-development-project-report&#34;&gt;Remote Development Project Report&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Student Name&lt;/strong&gt;: [OGUNLADE JOSHUA OLUWASEUN]&lt;br&gt;
 &lt;strong&gt;Student ID&lt;/strong&gt;: [LS2525237]&lt;/p&gt;
@@ -83,11 +88,29 @@
 &lt;p&gt;&lt;strong&gt;Source Code&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Assignment 1 Report</title>
-      <link>http://localhost:1313/josh-dev/posts/assignment1-report/</link>
+      <title>Hello World</title>
+      <link>http://localhost:1313/josh-dev/posts/hello-world/</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/josh-dev/posts/assignment1-report/</guid>
-      <description></description>
+      <guid>http://localhost:1313/josh-dev/posts/hello-world/</guid>
+      <description>Welcome to my blog — a space where I document my journey through Software Engineering.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/josh-dev/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/josh-dev/posts/about/</guid>
+      <description>&lt;h2 id=&#34;hey-im-joshua&#34;&gt;Hey, I&amp;rsquo;m Joshua&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a Space Technology student with a curiosity for how things work.&lt;/p&gt;
+&lt;p&gt;This blog is where I think out loud. I write about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Concepts I&amp;rsquo;m studying in my Software Technology  program&lt;/li&gt;
+&lt;li&gt;Tools and workflows I&amp;rsquo;m building habits around&lt;/li&gt;
+&lt;li&gt;Lessons learned from assignments and projects&lt;/li&gt;
+&lt;li&gt;Anything in tech I find genuinely interesting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;about-this-site&#34;&gt;About this site&lt;/h2&gt;
+&lt;p&gt;Built with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; using the PaperMod theme, deployed on GitHub Pages.
+Every post is written in plain Markdow, no CMS, no database, just files and Git.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
