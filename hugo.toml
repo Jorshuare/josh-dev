@@ -1,4 +1,3 @@
-
 baseURL = "https://jorshuare.github.io/josh-dev/"
 
 languageCode = "en-us"
@@ -16,8 +15,6 @@ theme = "PaperMod"
   TocOpen = false
   ShowShareButtons = false
   ShowCodeCopyButtons = true
-
-[params]
   hideSummary = true
 
 [params.homeInfoParams]
