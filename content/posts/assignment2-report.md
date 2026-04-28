@@ -151,14 +151,6 @@ and meeting all content requirements for the assignment.
 
 ---
 
-## Reflection
+## References
 
-Building this blog reinforced several things I've been learning in my Software Engineering
-program. Using Git with intentional, meaningful commits — rather than just saving changes —
-made the development process feel more structured and professional.
-
-Hugo's Markdown-based workflow is a good fit for technical documentation and blogging. The
-barrier to publishing is low, which means the focus stays on the content itself.
-
-The most challenging part was configuring the GitHub Actions deployment pipeline, but once it
-was working, the feedback loop of push → auto-deploy became satisfying to use.
+[1] https://gohugo.io/getting-started/quick-start/
