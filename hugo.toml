@@ -7,10 +7,18 @@ theme = "PaperMod"
 
 [params]
   author = "Josh"
-  description = "A Software Engineering student documenting the journey."
+  description = "A Software technology student documenting the journey."
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  Summary = false 
+  ShowToc = true 
+  TocOpen = false
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+
+[params]
+  hideSummary = true
 
 [params.homeInfoParams]
   Title = "Hi, I'm Joshua"
@@ -23,7 +31,7 @@ theme = "PaperMod"
 
 [[menu.main]]
   name = "About"
-  url = "/about/"
+  url =  "/posts/about_me/"
   weight = 10
 
 [[menu.main]]

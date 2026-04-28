@@ -6,8 +6,8 @@ slug: "assignment-1-report"
 ---
 # Remote Development Project Report
 
-**Student Name**: [OGUNLADE JOSHUA OLUWASEUN]  
-**Student ID**: [LS2525237]  
+**Student Name**: OGUNLADE JOSHUA OLUWASEUN  
+**Student ID**: LS2525237  
 
 ## Objective
 
@@ -39,7 +39,7 @@ slug: "assignment-1-report"
 
 ## Implementation Details <a name="imp_details"></a>
 
-### Python Language ImplementationX
+### Python Language Implementation
 
 **Source Code**:
 
@@ -52,11 +52,11 @@ def matrix_mult(mat_1, mat_2):
     # Initialize result as a 3x3 matrix of zeros
     result = [[0 for j in range(3)] for k in range(3)]
     
-    # Outer loop - iterates over rows of mat_1
+    # Outer loop, iterates over rows of mat_1
     for i in range(len(mat_1)):
-        # Middle loop - iterates over columns of mat_2
+        # Middle loop, iterates over columns of mat_2
         for j in range(len(mat_2[i])):
-            # Inner loop - does the actual multiplication
+            # Inner loop,  does the actual multiplication
             for k in range(len(mat_2)):
                 # Multiply and accumulate into result[i][j]
                 result[i][j] += mat_1[i][k] * mat_2[k][j]
@@ -97,10 +97,12 @@ The full output of the program was:
 [[22, 67, 57], [40, 113, 105], [26, 77, 71]]
 
 ## Conclusion <a name="conc"></a>
-
-This section of the assignment has been a memory refresher on writing Markdown 
-which made me remember commands in Markdown which I had forgotten. It was also 
-a refresher in coding Python.
+This assignment has been a memory refresher for me both in writing Markdown and in 
+coding Python. It helped me recall commands I had forgotten and think more carefully 
+about how to structure technical documentation. Working with command-line tools to 
+retrieve system information was also a good reminder of how much can be done 
+directly from the terminal. Overall, it encouraged me to consider how documentation 
+is written for an external audience.
 
 ---
 
@@ -109,3 +111,9 @@ a refresher in coding Python.
 [1] https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
 
 [2] https://markdownlivepreview.com/
+
+---
+
+## Appendix
+
+- The system used for this project is a MacBook and not Linux, equivalent commands were used to answer the first question not the ones provided by the Professor. 
