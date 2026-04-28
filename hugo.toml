@@ -22,11 +22,6 @@ theme = "PaperMod"
   Content = "Space Technology student. Writing about what I learn."
 
 [[menu.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 5
-
-[[menu.main]]
   name = "About"
   url =  "/posts/about_me/"
   weight = 10

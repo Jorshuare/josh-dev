@@ -1,5 +1,6 @@
 ---
 title: "About"
+date: 2026-04-26
 layout: "single"
 draft: false
 slug: "about_me"
