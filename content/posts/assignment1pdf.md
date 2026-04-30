@@ -5,5 +5,5 @@ draft: false
 slug: "assignment1pdf"
 ---
 You can download or view the Assignment 1 report as a PDF below:
-[Assignment 1 PDF](/josh-dev/files/assignment1-report.pdf)
+[Assignment 1 PDF](/josh-dev/static/files/assignment1-report.pdf)
 
