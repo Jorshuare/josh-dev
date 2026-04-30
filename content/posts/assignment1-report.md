@@ -23,9 +23,10 @@ slug: "assignment-1-report"
 3. [Algorithm Verification](#alg_verify)
 4. [Conclusion](#conc)
 5. [References](#ref)
+6. [Appendix](#appendix)
 
 
-### System Configuration <a name="sys_config"></a>
+### System Configuration {#sys_config}
 
 | System Configuration          | Command Used                                      | Output                                                                                   |
 |-------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -37,7 +38,7 @@ slug: "assignment-1-report"
 
 ---
 
-## Implementation Details <a name="imp_details"></a>
+## Implementation Details {#imp_details}
 
 ### Python Language Implementation
 
@@ -76,7 +77,7 @@ python matrix_mult.py
 
 ---
 
-## Algorithm Verification <a name="alg_verify"></a>
+## Algorithm Verification {#alg_verify}
 
 **Correctness**:
 
@@ -96,7 +97,7 @@ The full output of the program was:
 
 [[22, 67, 57], [40, 113, 105], [26, 77, 71]]
 
-## Conclusion <a name="conc"></a>
+## Conclusion {#conc}
 This assignment has been a memory refresher for me both in writing Markdown and in 
 coding Python. It helped me recall commands I had forgotten and think more carefully 
 about how to structure technical documentation. Working with command-line tools to 
@@ -106,7 +107,7 @@ is written for an external audience.
 
 ---
 
-## References <a name="ref"></a>
+## References {#ref}
 
 [1] https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
 
@@ -114,6 +115,6 @@ is written for an external audience.
 
 ---
 
-## Appendix
+## Appendix {#appendix}
 
 - The system used for this project is a MacBook and not Linux, equivalent commands were used to answer the first question not the ones provided by the Professor. 
