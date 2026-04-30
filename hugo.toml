@@ -32,6 +32,11 @@ theme = "PaperMod"
   weight = 20
 
 [[menu.main]]
+  name = "Assignment 1 PDF"
+  url = "/posts/assignment-1-pdf/"
+  weight = 25
+
+[[menu.main]]
   name = "Assignment 2"
   url = "/posts/assignment-2-report/"
   weight = 25
